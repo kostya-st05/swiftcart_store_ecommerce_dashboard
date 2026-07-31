@@ -72,11 +72,13 @@
 Данные на уровне заказов интернет-магазина одежды в Индии за один календарный год.
 
 ## Repository Structure
+PROJECT_1
+│
 ├── README.md
 ├── swiftCart_dashboard.pbix
 ├── swiftCart_data.xlsx
 └── images
-    ├── 01_dashboard.png
+    ├── 01_monthly_revenue_orders.png
     ├── 02_sales_analysis.png
     ├── 03_problem_analysis.png
     └── power_query_swiftcart.png

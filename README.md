@@ -67,8 +67,8 @@
 - DAX — вычисляемые меры
 
 ## Источник данных
-Датасет: Kaggle — SwiftCart Sales Analysis: Insights from 31K+ Order
-Ссылка: https://www.kaggle.com/code/zohairbaloch/swiftcart-sales-analysis-insights-from-31k-order#Section-4--Univariate-EDA
+Датасет: Kaggle — SwiftCart Online Retail Sales Dataset
+Ссылка: https://www.kaggle.com/datasets/zohairbaloch/swiftcart-online-retail-sales-dataset
 Данные на уровне заказов интернет-магазина одежды в Индии за один календарный год.
 
 ## Repository Structure

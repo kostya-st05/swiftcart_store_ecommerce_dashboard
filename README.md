@@ -11,7 +11,7 @@
 ## Скриншоты дашборда
 
 **Страница 1 — динамика продаж по месяцам**
-![Monthly Revenue and Orders](images/01_monthly_revenue_orders.png)
+![01_monthly_revenue_orders.png](images/01_monthly_revenue_orders.png)
 
 **Страница 2 — анализ продаж по категориям и каналам**
 ![Sales Analysis](images/02_sales_analysis.png)
